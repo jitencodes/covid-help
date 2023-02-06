@@ -1,8 +1,8 @@
-<div align="center">
+<div align="center" widtyh="100%">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/jitencodes/covid-help)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/jitencodes?style=social)](https://twitter.com/intent/follow?screen_name=jitencodes)
-  [![Linkedin Follow](https://img.shields.io/linkedIn/follow/jitencodes?style=social)](https://www.linkedin.com/in/jitencodes/)
+  [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jitencodes/)
+  [![Twitter Follow](https://img.shields.io/badge/Twitter-0077B5?style=social&logo=Twitter&logoColor=blue)](https://twitter.com/intent/follow?screen_name=jitencodes/)
 
 
   <br />
@@ -20,7 +20,7 @@
 
 ### Demo Screeshots
 
-![covid-help Desktop Demo](./readme-images/demo.png "Desktop Demo")
+![covid-help Desktop Demo]("https://github.com/jitencodes/covid-help/blob/main/Screenshot%202023-01-30%20164510.jpg?raw=true" "Desktop Demo")
 
 ### Prerequisites
 
