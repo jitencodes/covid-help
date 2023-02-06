@@ -20,8 +20,7 @@
 
 ### Demo Screeshots
 
-![covid-help Desktop Demo]("https://github.com/jitencodes/covid-help/blob/main/Screenshot%202023-01-30%20164510.jpg?raw=true" "Desktop Demo")
-
+![covid-help Desktop Demo]("https://raw.githubusercontent.com/jitencodes/covid-help/main/Screenshot%202023-01-30%20164510.jpg")
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
